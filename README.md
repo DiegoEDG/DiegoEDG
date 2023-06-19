@@ -7,4 +7,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,nestjs,jest,postgres,mongodb,docker,linux,figma" width="40" height="40"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,nestjs,jest,postgres,mongodb,docker,linux,figma"/> </p>
