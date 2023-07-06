@@ -2,6 +2,7 @@
 <h3 align="center"> A curious and passionate developer who is constantly creating and learning.</h3>
 
 ## 💪 Projects:
+- [🎨 ENSE Studio Landing Page](https://github.com/DiegoEDG/ense-landing)
 - [🍿 Movies Mobile App](https://github.com/DiegoEDG/MoviesApp)
 - [💰 HooBank Landing Page](https://github.com/DiegoEDG/Hoobank-landingPage)
 - [🤑 Budget Manager](https://github.com/DiegoEDG/control-de-gastos)
