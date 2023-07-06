@@ -4,6 +4,7 @@
 ## 💪 Projects:
 - [🍿 Movies Mobile App](https://github.com/DiegoEDG/MoviesApp)
 - [💰 HooBank Landing Page](https://github.com/DiegoEDG/Hoobank-landingPage)
+- [🤑 Budget Manager](https://github.com/DiegoEDG/control-de-gastos)
 
 <h2> 💻 Technologies I use daily: </h2>
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,nextjs,nodejs,nestjs,graphql,jest,postgres,mongodb,docker,linux,figma"/> </p>
