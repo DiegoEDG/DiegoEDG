@@ -4,6 +4,7 @@
 ## 💪 Projects:
 - [🎨 ENSE Studio Landing Page](https://github.com/DiegoEDG/ense-landing)
 - [🍿 Movies Mobile App](https://github.com/DiegoEDG/MoviesApp)
+- [🐉 Pokedex App](https://github.com/DiegoEDG/PokedexRN)
 - [📱 iOS Calculator Clone](https://github.com/DiegoEDG/calculatorRN)
 - [💰 HooBank Landing Page](https://github.com/DiegoEDG/Hoobank-landingPage)
 - [🤑 Budget Manager](https://github.com/DiegoEDG/control-de-gastos)
