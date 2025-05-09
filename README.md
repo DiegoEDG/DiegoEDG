@@ -3,4 +3,4 @@
 
 
 <h2> 💻 Tech I use daily: </h2>
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,nextjs,nodejs,nestjs,graphql,jest,postgres,mongodb,docker,linux,figma"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,ts,react,nextjs,nodejs,nestjs,graphql,jest,postgres,mongodb,docker,linux,figma"/> </p>
